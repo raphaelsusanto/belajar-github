@@ -1,5 +1,4 @@
 Tes123
 baris 1
-baris3
-baris 4 tambahan
+baris 6
 baris 5 tambah
